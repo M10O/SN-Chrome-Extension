@@ -10,13 +10,12 @@ Demo: [Video](https://drive.google.com/file/d/1v3cq8XqlO53QbUhUkIptTyUjii89Atlr/
 The extension serves as a productivity tool that eliminates the need to manually navigate through ServiceNow's menu structure or remember specific URLs. Users can instantly jump to essential ServiceNow modules from any ServiceNow tab.
 
 ### **Key Features**
-- **Quick Module Access**: One-click navigation to 22 essential ServiceNow modules including:
+- **Quick Module Access**: One-click navigation to 20+ essential ServiceNow modules including:
   - Development tools (Script Includes, Business Rules, Client Scripts)
   - System administration (Tables & Columns, System Logs, Update Sets)
-  - Workflow management (Workflow Editor, Flow Designer)
+  - Workflow management (Flow Designer)
   - Service management (Service Catalog Items, Notifications)
   - Security and access control (ACLs, Users, Roles, Groups)
-  - Application development (Studio for Scoped Apps)
 
 - **Smart URL Detection**: Automatically detects the current ServiceNow instance and opens modules in new tabs using the correct base URL
 - **Clean, Intuitive Interface**: Simple button-based design with hover effects and responsive layout
