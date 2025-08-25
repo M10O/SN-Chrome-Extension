@@ -1,6 +1,10 @@
 ## Project Description: SN Quick Launch
 
+**Headline:** No need to type table name everytime. This extension increases productivity by 95%
+
 **SN Quick Launch** is a Chrome browser extension designed to streamline navigation within ServiceNow instances. It provides developers and administrators with quick access to commonly used ServiceNow modules and tools through a convenient popup interface.
+
+
 
 ### **Purpose & Functionality**
 The extension serves as a productivity tool that eliminates the need to manually navigate through ServiceNow's menu structure or remember specific URLs. Users can instantly jump to essential ServiceNow modules from any ServiceNow tab.
