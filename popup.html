@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SN Quick Launch</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Optional: Search bar for filtering modules -->
+    <!-- <input type="text" id="search" placeholder="Search modules..."> -->
+    <h2>SN Quick Launch</h2>
+    <div id="button-list">
+      <button data-path="/sys_script_include_list.do">Script Includes</button>
+      <button data-path="/sys_script_list.do">Business Rules</button>
+      <button data-path="/sys_script_client_list.do">Client Scripts</button>
+      <button data-path="/sys_ui_policy_list.do">UI Policies</button>
+      <button data-path="/sys_db_object_list.do">Tables & Columns</button>
+      <button data-path="/syslog_list.do">System Logs</button>
+      <button data-path="/sys_update_set_list.do">Update Sets</button>
+      <button data-path="/workflow_activities.do">Workflow Editor</button>
+      <button data-path="/$flow-designer.do">Flow Designer</button>
+      <button data-path="/sc_cat_item_list.do">Service Catalog Items</button>
+      <button data-path="/sys_security_acl_list.do">ACLs</button>
+      <button data-path="/sys_dictionary_list.do">Dictionary Entries</button>
+      <button data-path="/sysevent_email_action_list.do">Notifications</button>
+      <button data-path="/sys_trigger_list.do">Scheduled Jobs</button>
+      <button data-path="/sys_script_fix_list.do">Fix Scripts</button>
+      <button data-path="/sys_security_acl_list.do">Access Control</button>
+      <button data-path="/sys_user_list.do">Users</button>
+      <button data-path="/sys_user_role_list.do">Roles</button>
+      <button data-path="/sys_user_group_list.do">Groups</button>
+      <button data-path="/sys_metadata_list.do">Application Files</button>
+      <button data-path="/studio">Studio (Scoped Apps)</button>
+    </div>
+    <!-- Optional: Custom shortcuts, dark/light mode toggle -->
+    <!-- <div id="custom-shortcuts"></div> -->
+    <!-- <button id="toggle-theme">Toggle Dark/Light Mode</button> -->
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
+
+

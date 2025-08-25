@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f7f7f7;
+  color: #222;
+  min-width: 260px;
+  min-height: 400px;
+}
+
+.container {
+  padding: 16px 12px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.2em;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+#button-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  overflow-y: auto;
+  flex: 1 1 auto;
+  max-height: 340px;
+}
+
+#button-list button {
+  padding: 10px 12px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  background: #e0e4ea;
+  color: #222;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  text-align: left;
+}
+
+#button-list button:hover {
+  background: #b3c6f7;
+  color: #0a2a66;
+}
+
+/* Optional: Styles for search bar, custom shortcuts, dark/light mode */
+/*
+body.dark {
+  background: #23272f;
+  color: #f7f7f7;
+}
+#button-list button.dark {
+  background: #333b4a;
+  color: #f7f7f7;
+}
+*/
+
+

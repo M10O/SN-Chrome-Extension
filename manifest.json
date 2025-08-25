@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "SN Quick Launch",
+  "version": "1.0",
+  "description": "Quickly access ServiceNow modules/tools from any instance tab. Built by Vaibhav Kedarisetti.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ]
+}
