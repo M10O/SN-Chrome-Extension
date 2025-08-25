@@ -38,4 +38,4 @@ The extension serves as a productivity tool that eliminates the need to manually
 
 This extension essentially transforms the ServiceNow navigation experience from a multi-step menu traversal into a single-click operation, making it an invaluable tool for ServiceNow professionals who need quick access to various system modules throughout their workday.
 
-linkedin: Vaibhav Kedarisetti
+linkedin: [Vaibhav Kedarisetti](https://www.linkedin.com/in/vaibhav-kedarisetti/)
