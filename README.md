@@ -6,47 +6,32 @@
 
 Demo: [Video](https://drive.google.com/file/d/1v3cq8XqlO53QbUhUkIptTyUjii89Atlr/view?usp=sharing)
 
-🚀 How to Use SN Quick Launch
+## 🚀 **How to Use SN Quick Launch**
 
 Since the extension is not yet published on the Chrome Web Store, you can install it manually by following these steps:
 
-Download the Extension
+### **1. Download the Extension**
+- Click on **Code → Download ZIP**
+- Extract the downloaded ZIP file to a folder on your computer
 
-Visit my GitHub repository: 👉 SN Quick Launch - GitHub
+### **2. Open Chrome Extensions Page**
+- Open Google Chrome
+- Navigate to: `chrome://extensions/`
+- Enable **Developer Mode** (toggle switch in the top-right corner)
 
-Click on Code → Download ZIP
+### **3. Load the Extension**
+- Click **Load unpacked**
+- Select the folder where you extracted the extension files
+- **SN Quick Launch** will now appear in your extensions list
 
-Extract the downloaded ZIP file to a folder on your computer
+### **4. Pin the Extension**
+- Click the puzzle piece (**Extensions**) icon in Chrome’s toolbar
+- Pin **SN Quick Launch** for quick access
 
-Open Chrome Extensions Page
-
-Open Google Chrome
-
-Navigate to: chrome://extensions/
-
-Enable Developer Mode (toggle switch in the top-right corner)
-
-Load the Extension
-
-Click Load unpacked
-
-Select the folder where you extracted the extension files
-
-SN Quick Launch will now appear in your extensions list
-
-Pin the Extension
-
-Click the puzzle piece (Extensions) icon in Chrome’s toolbar
-
-Pin SN Quick Launch for quick access
-
-Start Using
-
-Open any ServiceNow instance
-
-Click the SN Quick Launch icon in Chrome
-
-Instantly navigate to 20+ ServiceNow modules with one click 🚀
+### **5. Start Using**
+- Open any **ServiceNow instance**
+- Click the **SN Quick Launch** icon in Chrome
+- Instantly navigate to **20+ ServiceNow modules** with one click 🚀
 
 ### **Purpose & Functionality**
 The extension serves as a productivity tool that eliminates the need to manually navigate through ServiceNow's menu structure or remember specific URLs. Users can instantly jump to essential ServiceNow modules from any ServiceNow tab.
